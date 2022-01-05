@@ -8,4 +8,4 @@
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=sodadeorange&count_private=true&title_color=8B008B&icon_color=9370DB&text_color=BA55D3&custom_title=sodadeorange's+GitHub+Stats&show_icons=true"
-/> ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sodadeorange)
+/>
